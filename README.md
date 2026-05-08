@@ -16,7 +16,7 @@ It includes authentication, task management, project tracking, team collaboratio
 * Team Collaboration
 * Activity Logging
 * Dashboard with Task Statistics
-* developed to manage tasks, projects, and team activities
+* Modern Dark-Themed Interface
 
 ---
 
