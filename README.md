@@ -81,7 +81,7 @@ It includes authentication, task management, project tracking, team collaboratio
 ## Running the Project
 
 ```bash id="5o18ti"
-git clone https://github.com/your-username/FlowSync.git
+git clone https://github.com/your-username/FlowSync.git](https://github.com/ishitaboghara/FlowSync-Task-Management-System.git
 cd FlowSync/backend
 npm install
 npm run dev
