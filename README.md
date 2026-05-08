@@ -1,6 +1,6 @@
 # FlowSync – Smart Task & Productivity Management System
 
-FlowSync is a full-stack task and productivity management web application developed as a final year project. The application helps users manage tasks, projects, and team activities through a simple and modern interface.
+FlowSync is a full-stack task and productivity management web application developed to manage tasks, projects, and team activities. The application helps users manage tasks, projects, and team activities through a simple and modern interface.
 
 It includes authentication, task management, project tracking, team collaboration, and activity logging features.
 
